@@ -1,5 +1,5 @@
 ----------------------------------README ----------------------------------
-Kindly read these instructions before running the code in Python.
+Kindly read these instructions before running "Codontable.py" code in Python.
 There is an input file provided with the python code that contains the gene sequences for Saccharomyces Cerevisiae.
 
 The user will be prompted to enter the name of the file during execution.

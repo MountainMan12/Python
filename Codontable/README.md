@@ -12,7 +12,7 @@ Most online tools will calculate these values per 1000 codons.
 After the table is generated the user can view the codon bias followed by codon preference values.
 To confirm the results, the user can refer to online tools
 
-Link to online SMS tool: [http://www.bioinformatics.org/sms2/codon_usage.html](SMS Tool)
+Link to online SMS tool: http://www.bioinformatics.org/sms2/codon_usage.html
 
 ## 1.1 ABOUT THE DATA
 
@@ -23,6 +23,6 @@ The latest sequence data consists of 16 chromosomes and chromosome sequences wer
 
 The data used in the program is the complete nucleotide record of CDS of Saccharomyces cerevisiae.
 
-For more information on the genome refer the url [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962479/](*S. Cerevisiae*)
+For more information on the genome refer the url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3962479/
 
 Note: There will be a slight variation in the first decimal place of the values as the data used was updated after the generation of table in the link mentioned.
